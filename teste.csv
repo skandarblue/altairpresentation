@@ -1,4 +1,4 @@
-,name,id,nametype,recclass,mass,fall,year,reclat,reclong,GeoLocation,mass category
+,name,id,nametype,recclass,mass,fall,year,reclat,reclong,GeoLocation,masscategory
 0,Aachen,1,Valid,L5,21.0,Fell,1880,50.775,6.08333,"(50.775000, 6.083330)",Medium
 1,Aarhus,2,Valid,H6,720.0,Fell,1951,56.18333,10.23333,"(56.183330, 10.233330)",Very Heavy
 2,Abee,6,Valid,EH4,107000.0,Fell,1952,54.21667,-113.0,"(54.216670, -113.000000)",Very Heavy
